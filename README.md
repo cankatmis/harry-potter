@@ -33,4 +33,4 @@ Input:
 Output:
  Gryffindor: John Doe - Harry Potter - Ron Weasley -
  Ravenclaw: Allsaint Alice -
- Slytherin: Draco Malfoy – Bloody Bob
+ Slytherin: Draco Malfoy – Bloody Bob -
